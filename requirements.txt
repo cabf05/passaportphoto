@@ -1,5 +1,5 @@
 streamlit>=1.33
 rembg==2.0.57
 pillow>=10.3.0
-onnxruntime==1.18.0
+onnxruntime-cpu==1.18.0
 numpy>=1.26
